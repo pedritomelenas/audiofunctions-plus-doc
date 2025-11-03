@@ -1,0 +1,13 @@
+---
+title: "Audiofunctions+"
+subtitle: "Sonnification of mathematical functions"
+lang: en
+---
+
+{{< include README.md >}}
+
+::: {.column-margin}
+
+![](EN%20Co-Funded%20by%20the%20EU_POS.png)
+
+:::
