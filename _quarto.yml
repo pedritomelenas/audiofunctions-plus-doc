@@ -30,7 +30,7 @@ format:
          - cosmo
          - custom.scss
     css: styles.css
-    toc: false
+    toc: true
     logo: "logo.png"
     sidebar: false
     lang: en
